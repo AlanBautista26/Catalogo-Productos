@@ -1,0 +1,56 @@
+body {
+    background-color: #272525; 
+    color: #fff; 
+}
+
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    padding: 25px;
+}
+
+h1, h2, h3 {
+    font-family: "Coming Soon", cursive;
+    font-size: 20px;
+    
+}
+
+.container {
+    max-width: 1200px; 
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.card:hover {
+    transform: translateY(-5px); 
+    transition: transform 0.3s ease;
+}
+
+.btn {
+    background-color: black; 
+    color: #fff; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: red; 
+}
+
+
+.card-body {
+    text-align: center;
+}
+
+.texto-blanco {
+    color: red; 
+}
